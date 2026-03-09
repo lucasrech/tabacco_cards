@@ -1,5 +1,4 @@
-def main():
-    print("Hello from tabacco-cards!")
+from extract_tables import main
 
 
 if __name__ == "__main__":
